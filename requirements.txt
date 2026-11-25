@@ -1,0 +1,11 @@
+torch>=2.2
+numpy>=1.26
+python-chess>=1.10
+zstandard>=0.22
+
+tqdm>=4.66
+pyyaml>=6.0
+wandb>=0.16
+
+fastapi>=0.110
+uvicorn[standard]>=0.29
